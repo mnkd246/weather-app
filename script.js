@@ -21,3 +21,5 @@ button.addEventListener('click', function(event){
 
 .catch(err => alert("Wrong city name!"))
 })
+
+document.body.style.backgroundImage = "url('images/clouds.jpg')";
